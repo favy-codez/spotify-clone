@@ -117,19 +117,19 @@ h2{
   gap: 30px;
   padding-top: 50px;
   padding-top: 0;
-
 }
+
 .monthly h5{
   margin-bottom: 0;
   margin-top: 0;
 }
+
 .monthly p{
   font-size: 25px;
   margin-top: 0;
 }
 
 a, button{
-
   display: inline-block;
   text-align: center;
   width: 100px;
@@ -138,17 +138,19 @@ a, button{
   border-radius: 23px;
   line-height: 45px;
   border: none;
-
 }
+
 .play{
   background-color: rgb(21,17,30);
   color: white;
 }
+
 .play:hover{
   background-color: rgb(255, 255, 255);
   transition: 300ms;
   color: black;
 }
+
 .follow{
   background-color: rgb(255, 255, 255);
   color: black;
@@ -156,6 +158,7 @@ a, button{
   height: 43px;
   border: 0.5px solid black;
 }
+
 .follow:hover{
   background-color: rgb(21,17,30);
   transition: 300ms;
@@ -166,9 +169,11 @@ a, button{
   display: flex;
   justify-content: space-between;
 }
+
 table{
   width: 100%;
 }
+
 th{
   text-align: start;
 }
@@ -194,17 +199,20 @@ th{
   background-color: rgb(255,255,255);
   color: black;
   font-weight: 500;
-
 }
+
 .rightsidebar h2{
   font-size: 30px;
 }
+
 .rightsidebar h5,.rightsidebar p{
   margin: 0;
 }
+
 .moreFav i{
   vertical-align: middle;
 }
+
 .favItem{
   display: flex;
   justify-content: space-between;
