@@ -1,15 +1,16 @@
 import { useState } from 'react'
 
 import './App.css'
-import Header from "./components/RightSidebar";
+import React from'react';
+import RightSidebar from "./components/RightSidebar";
 import Sidebar from "./components/Sidebar"
-import Table from "./components/Main"
+import Main from "./components/Main"
 import Footer from "./components/Login"
 
 export default App
 
 import './App.css';
-import React from'react';
+
 import Main from './components/Main.jsx'
 import LeftSidebar from './components/LeftSidebar.jsx'
 import RightSidebar from './components/RightSidebar.jsx'
